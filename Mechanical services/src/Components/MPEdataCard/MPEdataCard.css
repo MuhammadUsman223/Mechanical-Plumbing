@@ -1,0 +1,25 @@
+.MPE-card {
+  width: 280px;
+  height: 342px;
+  margin-right: 20px;
+  border-radius: 15px;
+  background-color: #2f2f2f;
+}
+.card-text {
+  width: 268px;
+  height: 28px;
+  font-family: Segoe UI;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 27px;
+  color: white;
+}
+.card-img {
+  width: 280px;
+  height: 238px;
+  margin-top: 49px;
+  border-radius: 15px;
+}

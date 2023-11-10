@@ -1,0 +1,65 @@
+.benefits-services-image {
+  display: flex;
+}
+.benefits-heading {
+  font-family: Segoe UI;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ff7518;
+  margin-left: 180px;
+  margin-top: 104px;
+}
+.benefits-list {
+  width: 665px;
+  height: 333px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Segoe UI;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 210px;
+}
+.services-lists {
+  display: flex;
+  margin-top: 14px;
+}
+.services-heading {
+  font-family: Segoe UI;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ff7518;
+  margin-left: 180px;
+  margin-top: 50px;
+}
+.services-list-section1 {
+  font-family: Segoe UI;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 210px;
+}
+.services-list-section2 {
+  font-family: Segoe UI;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 220px;
+}
+.benefits-services-sideimage {
+  width: 480px;
+  height: 653px;
+  margin-top: 165px;
+}

@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@500&family=Roboto:wght@700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@500&family=Roboto&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins:wght@500&family=Roboto&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Poppins:wght@500&family=Roboto&display=swap");
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #1b1b1b;
+  margin-top: 62px;
+}
+.footer-columns {
+  display: flex;
+}
+
+.footer-logo {
+  width: 205px;
+  height: 85px;
+  margin-top: 23px;
+  margin-left: 106px;
+}
+.footer-para {
+  width: 325px;
+  height: 212px;
+  color: white;
+  margin-top: 20px;
+  margin-left: 115px;
+}
+h6 {
+  font-family: "Inter", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 53px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  margin-top: 59px;
+  margin-left: 202px;
+}
+.footer-naviagation {
+  font-family: "Roboto", sans-serif;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: center;
+  list-style-type: none;
+  color: white;
+  margin-left: 185px;
+}
+li {
+  margin-top: 13px;
+}
+.footer-para-start {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ff7518;
+}
+.footer-para {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 53px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  margin-top: 59px;
+  margin-left: 300px;
+}
+.footer-contact-address {
+  display: flex;
+  margin-top: 12px;
+  margin-left: 300px;
+}
+.footer-conatct-address-icon {
+  width: 36px;
+  height: 36px;
+  margin-top: 12px;
+}
+.footer-contact-address-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  margin-top: 9px;
+  margin-left: 12px;
+}
+.footer-conatct-number {
+  display: flex;
+  margin-left: 300px;
+}
+
+.footer-conatct-number-icon {
+  width: 36px;
+  height: 36px;
+  margin-top: 36px;
+}
+.footer-contact-number-text {
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: justified;
+
+  color: white;
+  margin-top: 44px;
+  margin-left: 12px;
+}
+.footer-conatct-email {
+  display: flex;
+  margin-left: 300px;
+}
+.footer-conatct-email-icon {
+  width: 36px;
+  height: 36px;
+  margin-top: 36px;
+}
+.footer-contact-email-text {
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: white;
+  margin-top: 46px;
+  margin-left: 12px;
+}
+.footer-copyright-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
+.footer-copyright {
+  display: flex;
+  margin-top: 55px;
+  margin-left: 514px;
+
+  color: #008000;
+}
+.footer-copyright-Bzone {
+  color: #ff6400;
+}
+.r {
+  width: 8px;
+  height: 8px;
+}

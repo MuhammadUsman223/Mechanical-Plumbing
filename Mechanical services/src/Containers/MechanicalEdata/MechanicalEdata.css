@@ -1,0 +1,25 @@
+.MEData {
+  width: 1028px;
+  height: 456.03px;
+  margin-top: 52px;
+  margin-left: 169px;
+}
+
+.MEData-heading {
+  width: 568px;
+  height: 69.82px;
+  font-family: Segoe UI;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ff7518;
+}
+.MPEcards {
+  display: flex;
+  min-width: 881px;
+  height: 342px;
+  margin-top: 44px;
+  margin-left: 147px;
+}

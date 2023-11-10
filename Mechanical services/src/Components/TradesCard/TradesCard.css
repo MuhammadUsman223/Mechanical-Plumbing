@@ -1,0 +1,35 @@
+.T-card {
+  position: relative;
+  width: 280px;
+  height: 289px;
+  margin-top: 36px;
+  margin-right: 20px;
+  border-radius: 15px;
+}
+.T-card-text {
+  width: 280px;
+  height: 84px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0px;
+  font-family: Segoe UI;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  border-radius: 15px;
+  background-color: #2f2f2f;
+  color: white;
+}
+.T-card-text:hover {
+  background-color: #f36a0e;
+}
+.T-card-img {
+  width: 266px;
+  height: 247px;
+  margin-left: 6px;
+  border-radius: 15px;
+}

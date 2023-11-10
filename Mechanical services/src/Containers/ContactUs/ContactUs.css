@@ -1,0 +1,55 @@
+.contactUs {
+  max-width: 1512px;
+  height: 324px;
+  margin-top: 62px;
+}
+.aboutUs-btn-icons-text {
+  display: flex;
+
+  margin-left: 70px;
+}
+.aboutUs-btn-icons {
+  display: flex;
+  flex-direction: column;
+}
+.aboutUs-btn {
+  width: 324px;
+  height: 117px;
+  font-family: Segoe UI;
+  font-size: 25px;
+  font-weight: 900;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+  border: none;
+  border-radius: 15px;
+  outline: none;
+  color: white;
+  background-color: #ff7518;
+  margin-top: 73px;
+}
+.aboutUs-icons {
+  margin-top: 14px;
+  margin-left: 113px;
+}
+.aboutUs-text {
+  width: 940px;
+  height: 100px;
+  font-family: Segoe UI;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 103px;
+  margin-left: 97px;
+  color: white;
+}
+.aboutUs-text-email {
+  font-family: Segoe UI;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+}

@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+.aboutUs {
+  width: 1512px;
+  height: 116px;
+  border-radius: 10px 10px 0 0;
+  color: white;
+  background-color: #2f2f2f;
+  display: flex;
+}
+
+.aboutUs-time-offer {
+  width: 428px;
+  height: 85px;
+  margin-top: 16px;
+  margin-left: 542px;
+}
+.aboutUs-time-text {
+  width: 428px;
+  height: 38px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.aboutUs-offer-text {
+  width: 330px;
+  height: 36px;
+  margin-left: 49px;
+  margin-top: 14px;
+  padding-top: 3px;
+  padding-left: 7px;
+  border-radius: 16px;
+  background-color: #ff7518;
+
+  animation: example 2s infinite ease-in;
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+@keyframes example {
+  0% {
+    background-color: #ff7518;
+  }
+  100% {
+    background-color: #dd3309;
+  }
+}
+.aboutUs-number-email-logoes {
+  display: flex;
+}
+.aboutUs-number-email {
+  margin-left: 200px;
+  margin-top: 21px;
+}
+.aboutUs-number-logo {
+  display: flex;
+}
+.aboutUs-nlogo {
+  width: 26px;
+  height: 26px;
+  margin-right: 14px;
+}
+.aboutUs-number {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #fdfdfd;
+}
+.aboutUs-email-logo {
+  display: flex;
+  margin-top: 12px;
+}
+.aboutUs-elogo {
+  width: 26px;
+  height: 26px;
+  margin-right: 14px;
+}
+.aboutUs-email {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #ffffff;
+}
+.facebook-linkedin {
+  display: flex;
+  align-items: center;
+  width: 60px;
+  height: 24px;
+  margin-top: 42px;
+}
+.facebook-linkedin img {
+  width: 24px;
+  height: 24px;
+}

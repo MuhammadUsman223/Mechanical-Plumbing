@@ -1,0 +1,30 @@
+.header-text-bgimg {
+  min-width: 1512px;
+  height: 232px;
+}
+.header-text {
+  width: 539px;
+  height: 79px;
+  font-family: Segoe UI;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 68px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-left: 116px;
+}
+
+.header-mainparagraph {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  max-width: 1180px;
+  min-height: 244px;
+  margin-top: 60px;
+  margin-left: 166px;
+}
